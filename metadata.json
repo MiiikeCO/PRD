@@ -1,0 +1,5 @@
+{
+  "name": "Product Requirement AI Assistant",
+  "description": "An AI-powered web application to help users define product requirements, generate Product Requirements Documents (PRDs), create development tickets, and build AI code generation prompts.",
+  "requestFramePermissions": []
+}
