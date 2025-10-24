@@ -1,6 +1,7 @@
 {
   "name": "product-requirement-ai-assistant",
-  "private": true,
+  "private": false,
+  "homepage":"https://miiikeco.github.io/PRD/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
